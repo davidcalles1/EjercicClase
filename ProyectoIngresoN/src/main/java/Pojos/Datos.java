@@ -13,6 +13,10 @@ public class Datos {
 double Dato1; 
 double Dato2;
 
+    public Datos(double dato1, double dato2) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
+
     public double getDato1() {
         return Dato1;
     }
