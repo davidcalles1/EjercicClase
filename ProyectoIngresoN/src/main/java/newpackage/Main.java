@@ -1,6 +1,6 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 package newpackage;
 
@@ -13,7 +13,8 @@ import java.util.Scanner;
  * @author Alvaro
  */
 public class Main {
-   public static void Main (String[]args)
+    public static void main(String[] args) {
+        // TODO code application logic here
    {
              var Scan = new Scanner(System.in);
 
@@ -30,15 +31,5 @@ public class Main {
 
 		System.out.println(resultado);
     }
-//    {
-//        Numero n = new Numero();
-//        Numer N = new Numer();
-//        
-//        n.setDato1(-20);
-//        n.setDato2(8);
-//        N.PosNeg(n);
-//    }
+    }
 }
-//Trabajo en pareja
-//Alvaro Lopez
-//Nelson David
